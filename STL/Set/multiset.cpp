@@ -44,7 +44,7 @@ auto it=s.find(1);
 s.erase(it);
 
 for(auto u:s )cout<<u<< " ";
-cout<<endl;
+cout<<endl;///1 1 1 2 2 3 4 5 6
 
 
 return 0;
